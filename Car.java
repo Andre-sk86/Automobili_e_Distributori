@@ -7,7 +7,7 @@ public class Car
   private Wheels ruote;
   
   private float MAX_PRESSIONE = 2.5f;
-
+//mod inutile
   public Car(String n, float r) {
     nome = n;
     resa = r;
